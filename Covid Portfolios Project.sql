@@ -1,4 +1,4 @@
-
+-- Show all infor related to Covid_Deaths table
 Select *
 From PortfolioProject..CovidDeaths
 Where continent is not null
